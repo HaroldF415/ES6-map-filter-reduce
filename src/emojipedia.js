@@ -4,7 +4,7 @@ const emojipedia = [
     emoji: "💪",
     name: "Tense Biceps",
     meaning:
-      "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
+      "You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
   },
   {
     id: 2,
